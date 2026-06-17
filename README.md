@@ -15,6 +15,6 @@
 
 ## 읽는 순서
 
-1. 문서 1
-2. 문서 2
-3. 문서 3
+문서1(model_comparision_report.md)
+문서2(system--_design_.md)
+문서3(log.md)
