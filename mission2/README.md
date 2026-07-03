@@ -83,6 +83,8 @@ AI로 글·그림·영상 만들어 나만의 광고 만들기
 
 추가 권장: 최소 1개 씬에 대해 “프롬프트 수정 전/후”와 수정 이유를 기록
 
+
+
 광고 영상 파일 (MP4 1개)[Jesus_Calling ]( [
 ](https://drive.google.com/file/d/1gL1vxqmXZfWPfzIckAz7fBIfXNSTBBSQ/view?usp=sharing)
 - 길이: 10초 이내
