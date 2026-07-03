@@ -85,7 +85,7 @@ AI로 글·그림·영상 만들어 나만의 광고 만들기
 
 
 
-광고 영상 파일 (MP4 1개)[Jesus_Calling](https://drive.google.com/file/d/1gL1vxqmXZfWPfzIckAz7fBIfXNSTBBSQ/view?usp=sharing)
+광고 영상 파일 (MP4 1개) [Jesus_Calling](https://drive.google.com/file/d/1gL1vxqmXZfWPfzIckAz7fBIfXNSTBBSQ/view?usp=sharing)
 - 길이: 10초 이내
 - 영상/오디오 소스: 생성형 AI 결과물을 주된 소스로 사용(세부 제한은 ‘제약 사항’ 참고)
 
