@@ -1,1 +1,15 @@
 .DS_Store
+
+# Python/Jupyter local artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Generated KOSPI datasets and analysis images
+data/raw/*
+data/processed/*
+images/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!images/.gitkeep
